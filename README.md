@@ -50,7 +50,7 @@
 
 <img src="./img/06_01.png" alt="フローチャート">
 
-<img src="./img/06_02.png" alt="トレース表">
+<img src="./img/06_02.png" alt="トレース表" width="300">
 
 <br><hr>
 
@@ -59,4 +59,4 @@
 
 <img src="./img/07_01.png" alt="フローチャート">
 
-<img src="./img/07_02.png" alt="トレース表">
+<img src="./img/07_02.png" alt="トレース表" width="300">
