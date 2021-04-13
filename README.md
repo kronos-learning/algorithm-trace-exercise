@@ -32,7 +32,7 @@
 
 <img src="./img/04_01.png" alt="フローチャート">
 
-<img src="./img/04_02.png" alt="トレース表">
+<img src="./img/04_02.png" alt="トレース表" width="500">
 
 <br><hr>
 
